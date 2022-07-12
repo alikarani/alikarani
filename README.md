@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Ali Karani
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-alikarani2/alikarani2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ <hr></hr>
+<p align="center">
+  <samp>
+    Hi, I'm Ali! 👋 <br>
+    🔥 Software Developer grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
+    :notebook: I’m currently learning DS and Algo... 😭  <br>
+    :email:	aliasgharkarani125@hotmail.com <br>
+    :art: Portfolio: http://portfoliowebsite-e92dc.web.app <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/aliasgharkarani/ <br>
+                Twitter: https://twitter.com/AliAsgharKarani
+  </samp>
+</p>
+
