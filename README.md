@@ -5,8 +5,8 @@
 
 ## 💡 Connect with me :
 <p align="left"> 
-<a href="https://twitter.com/Harikrushn9" target="blank"><img src="https://img.shields.io/twitter/follow/Harikrushn9?logo=twitter&style=for-the-badge" alt="Harikrushn9" /></a>&nbsp
-<a href="https://www.linkedin.com/in/harikrushn-kanani"><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="https://twitter.com/AliAsgharKarani" target="blank"><img src="https://img.shields.io/twitter/follow/Harikrushn9?logo=twitter&style=for-the-badge" alt="Harikrushn9" /></a>&nbsp
+<a href="https://www.linkedin.com/in/aliasgharkarani"><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
 <a href="http:/harikanani.github.io/PortfolioV2" target="_blank"><img src="https://img.shields.io/website?label=harikanani.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%2Fharikanani.github.io" alt="harikanani.github.io" /></a>&nbsp
    <a href="mailto:harikanani2003@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:harikanani2003@gmail.com" />
