@@ -7,7 +7,6 @@
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-<p align="center">
   <samp>
     🧑 Hi, I'm Ali! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
@@ -16,12 +15,11 @@
     :email:	aliasgharkarani125@hotmail.com <br>
     :art: Portfolio: http://portfoliowebsite-e92dc.web.app <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/aliasgharkarani/ <br>
-                Twitter: https://twitter.com/AliAsgharKarani
+    🐹 Twitter: https://twitter.com/AliAsgharKarani
   </samp>
-</p>
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/alikarani/](https://github.com/alikarani/)
+<!-- - 👨‍💻 All of my projects are available at [https://github.com/alikarani/](https://github.com/alikarani/)
 
 - 💬 Ask me about **JavaScript,Node.Js, Python**
 
@@ -30,7 +28,7 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/aliasgharkarani/](https://www.linkedin.com/in/aliasgharkarani/)
 
 - ⚡ Fun fact **I love to code**
-
+ -->
 ## 🌐 Languages and Tools :
 <p align="left">
     <a href="https://www.javascript.com/" target="_blank"> 
