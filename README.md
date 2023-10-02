@@ -8,7 +8,7 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
   <samp>
-    🧑 Hi, I'm Ali! 👋 <br>
+    🧑 Hi, I'm Ali Karani! 👋 <br>
     🔥 Software Developer grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
@@ -135,4 +135,6 @@
 <br/>  
 
 ![alikarani's github activity graph](https://activity-graph.herokuapp.com/graph?username=alikarani&theme=nord) 
+
+
 
