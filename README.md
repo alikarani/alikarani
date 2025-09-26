@@ -13,7 +13,7 @@
     :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
     :notebook: I’m currently learning DS and Algo... 😭  <br>
     :email:	aliasgharkarani125@hotmail.com <br>
-    :art: Portfolio: http://portfoliowebsite-e92dc.web.app <br>
+    :art: Portfolio: https://alikarani.github.io/developerPortfolio/ <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/aliasgharkarani/ <br>
     🐹 Twitter: https://twitter.com/AliAsgharKarani
   </samp>
